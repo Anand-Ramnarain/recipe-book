@@ -1,0 +1,280 @@
+[
+  {
+    "id": 0,
+    "name": "Caprese Salad",
+    "dietaryRestrictions": ["Vegetarian", "Gluten-Free"],
+    "cookingTime": "15 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Tomatoes",
+      "Fresh mozzarella cheese",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil",
+      "Balsamic vinegar",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Starter",
+    "favorite": false
+  },
+  {
+    "id": 1,
+    "name": "Grilled Salmon with Asparagus",
+    "dietaryRestrictions": ["Poultry", "Gluten-Free"],
+    "cookingTime": "20 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Salmon fillets",
+      "Asparagus spears",
+      "Lemon",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Main",
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Lava Cake",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "25 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Unsalted butter",
+      "Bittersweet chocolate",
+      "Eggs",
+      "Granulated sugar",
+      "Vanilla extract",
+      "All-purpose flour",
+      "Salt"
+    ],
+    "type": "Dessert",
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "name": "Mediterranean Quinoa Salad",
+    "dietaryRestrictions": ["Vegan", "Gluten-Free"],
+    "cookingTime": "20 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Quinoa",
+      "Cucumber",
+      "Cherry tomatoes",
+      "Kalamata olives",
+      "Red onion",
+      "Feta cheese",
+      "Fresh parsley",
+      "Lemon juice",
+      "Extra-virgin olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Starter",
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "name": "Chicken Alfredo Pasta",
+    "dietaryRestrictions": ["Poultry"],
+    "cookingTime": "30 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Fettuccine pasta",
+      "Chicken breast",
+      "Heavy cream",
+      "Parmesan cheese",
+      "Garlic",
+      "Butter",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Main",
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "name": "Key Lime Pie",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "40 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Graham cracker crumbs",
+      "Butter",
+      "Sweetened condensed milk",
+      "Key lime juice",
+      "Lime zest",
+      "Whipped cream"
+    ],
+    "type": "Dessert",
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "name": "Spinach and Feta Stuffed Mushrooms",
+    "dietaryRestrictions": ["Vegetarian", "Gluten-Free"],
+    "cookingTime": "25 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Large mushrooms",
+      "Spinach",
+      "Feta cheese",
+      "Garlic",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Starter",
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "name": "Beef Stir-Fry with Broccoli",
+    "dietaryRestrictions": ["Poultry", "Gluten-Free"],
+    "cookingTime": "25 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Beef sirloin",
+      "Broccoli florets",
+      "Soy sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame oil",
+      "Cornstarch",
+      "Vegetable oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Main",
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "name": "Apple Crisp",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "50 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Apples",
+      "Brown sugar",
+      "Rolled oats",
+      "All-purpose flour",
+      "Butter",
+      "Cinnamon",
+      "Salt"
+    ],
+    "type": "Dessert",
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "name": "Bruschetta with Tomato and Basil",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "15 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Baguette",
+      "Tomatoes",
+      "Fresh basil leaves",
+      "Garlic",
+      "Extra-virgin olive oil",
+      "Balsamic vinegar",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Starter",
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "name": "Spaghetti Carbonara",
+    "dietaryRestrictions": ["Poultry"],
+    "cookingTime": "25 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta or bacon",
+      "Eggs",
+      "Parmesan cheese",
+      "Garlic",
+      "Black pepper",
+      "Salt"
+    ],
+    "type": "Main",
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "name": "Tiramisu",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "30 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Ladyfingers",
+      "Espresso",
+      "Mascarpone cheese",
+      "Eggs",
+      "Sugar",
+      "Cocoa powder"
+    ],
+    "type": "Dessert",
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "name": "Guacamole",
+    "dietaryRestrictions": [ "Vegan", "Gluten-Free"],
+    "cookingTime": "10 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Avocados",
+      "Tomatoes",
+      "Red onion",
+      "Lime juice",
+      "Cilantro",
+      "Garlic",
+      "Salt",
+      "Black pepper"
+    ],
+    "type": "Starter",
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "name": "Beef Tacos",
+    "dietaryRestrictions": ["Gluten-Free"],
+    "cookingTime": "25 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Ground beef",
+      "Taco seasoning",
+      "Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Cheddar cheese",
+      "Sour cream",
+      "Salsa"
+    ],
+    "type": "Main",
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "name": "Cheesecake",
+    "dietaryRestrictions": ["Vegetarian"],
+    "cookingTime": "1 hour 30 minutes",
+    "method": "added later",
+    "ingredients": [
+      "Graham cracker crumbs",
+      "Sugar",
+      "Butter",
+      "Cream cheese",
+      "Sour cream",
+      "Eggs",
+      "Vanilla extract"
+    ],
+    "type": "Dessert",
+    "favorite": false
+  }
+]
